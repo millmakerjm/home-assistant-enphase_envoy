@@ -1,0 +1,315 @@
+[
+  {
+    "type": "PCU",
+    "devices": [
+      {
+        "part_num": "800-00631-r02",
+        "installed": "1583239962",
+        "serial_num": "135286449995",
+        "device_status": [
+          "envoy.global.ok"
+        ],
+        "last_rpt_date": "1589638643",
+        "admin_state": 1,
+        "dev_type": 1,
+        "created_date": "1583239962",
+        "img_load_date": "1548755627",
+        "img_pnum_running": "520-00082-r01-v02.14.02",
+        "ptpn": "540-00135-r01-v02.14.04",
+        "chaneid": 1627390225,
+        "device_control": [
+          {
+            "gficlearset": false
+          }
+        ],
+        "producing": true,
+        "communicating": true,
+        "provisioned": true,
+        "operating": false
+      },
+      {
+        "part_num": "800-00631-r02",
+        "installed": "1583239966",
+        "serial_num": "139252824378",
+        "device_status": [
+          "envoy.global.ok"
+        ],
+        "last_rpt_date": "1589638645",
+        "admin_state": 1,
+        "dev_type": 1,
+        "created_date": "1583239966",
+        "img_load_date": "1548755627",
+        "img_pnum_running": "520-00082-r01-v02.14.02",
+        "ptpn": "540-00135-r01-v02.14.04",
+        "chaneid": 1627390481,
+        "device_control": [
+          {
+            "gficlearset": false
+          }
+        ],
+        "producing": true,
+        "communicating": true,
+        "provisioned": true,
+        "operating": false
+      },
+      {
+        "part_num": "800-00631-r02",
+        "installed": "1583239970",
+        "serial_num": "115837014608",
+        "device_status": [
+          "envoy.global.ok"
+        ],
+        "last_rpt_date": "1589638646",
+        "admin_state": 1,
+        "dev_type": 1,
+        "created_date": "1583239970",
+        "img_load_date": "1548755627",
+        "img_pnum_running": "520-00082-r01-v02.14.02",
+        "ptpn": "540-00135-r01-v02.14.04",
+        "chaneid": 1627390737,
+        "device_control": [
+          {
+            "gficlearset": false
+          }
+        ],
+        "producing": true,
+        "communicating": true,
+        "provisioned": true,
+        "operating": false
+      },
+      {
+        "part_num": "800-00631-r02",
+        "installed": "1583239974",
+        "serial_num": "246510093469",
+        "device_status": [
+          "envoy.global.ok"
+        ],
+        "last_rpt_date": "1589638647",
+        "admin_state": 1,
+        "dev_type": 1,
+        "created_date": "1583239974",
+        "img_load_date": "1548755627",
+        "img_pnum_running": "520-00082-r01-v02.14.02",
+        "ptpn": "540-00135-r01-v02.14.04",
+        "chaneid": 1627390993,
+        "device_control": [
+          {
+            "gficlearset": false
+          }
+        ],
+        "producing": true,
+        "communicating": true,
+        "provisioned": true,
+        "operating": false
+      },
+      {
+        "part_num": "800-00631-r02",
+        "installed": "1583239982",
+        "serial_num": "245415616024",
+        "device_status": [
+          "envoy.global.ok"
+        ],
+        "last_rpt_date": "1589638649",
+        "admin_state": 1,
+        "dev_type": 1,
+        "created_date": "1583239982",
+        "img_load_date": "1548755627",
+        "img_pnum_running": "520-00082-r01-v02.14.02",
+        "ptpn": "540-00135-r01-v02.14.04",
+        "chaneid": 1627391249,
+        "device_control": [
+          {
+            "gficlearset": false
+          }
+        ],
+        "producing": true,
+        "communicating": true,
+        "provisioned": true,
+        "operating": false
+      },
+      {
+        "part_num": "800-00631-r02",
+        "installed": "1583239986",
+        "serial_num": "229575275435",
+        "device_status": [
+          "envoy.global.ok"
+        ],
+        "last_rpt_date": "1589638650",
+        "admin_state": 1,
+        "dev_type": 1,
+        "created_date": "1583239986",
+        "img_load_date": "1548755627",
+        "img_pnum_running": "520-00082-r01-v02.14.02",
+        "ptpn": "540-00135-r01-v02.14.04",
+        "chaneid": 1627391505,
+        "device_control": [
+          {
+            "gficlearset": false
+          }
+        ],
+        "producing": true,
+        "communicating": true,
+        "provisioned": true,
+        "operating": false
+      },
+      {
+        "part_num": "800-00631-r02",
+        "installed": "1583239989",
+        "serial_num": "827978601458",
+        "device_status": [
+          "envoy.global.ok"
+        ],
+        "last_rpt_date": "1589638651",
+        "admin_state": 1,
+        "dev_type": 1,
+        "created_date": "1583239989",
+        "img_load_date": "1548755627",
+        "img_pnum_running": "520-00082-r01-v02.14.02",
+        "ptpn": "540-00135-r01-v02.14.04",
+        "chaneid": 1627391761,
+        "device_control": [
+          {
+            "gficlearset": false
+          }
+        ],
+        "producing": true,
+        "communicating": true,
+        "provisioned": true,
+        "operating": false
+      },
+      {
+        "part_num": "800-00631-r02",
+        "installed": "1583239994",
+        "serial_num": "638651832560",
+        "device_status": [
+          "envoy.global.ok"
+        ],
+        "last_rpt_date": "1589638653",
+        "admin_state": 1,
+        "dev_type": 1,
+        "created_date": "1583239994",
+        "img_load_date": "1548755627",
+        "img_pnum_running": "520-00082-r01-v02.14.02",
+        "ptpn": "540-00135-r01-v02.14.04",
+        "chaneid": 1627392017,
+        "device_control": [
+          {
+            "gficlearset": false
+          }
+        ],
+        "producing": true,
+        "communicating": true,
+        "provisioned": true,
+        "operating": false
+      },
+      {
+        "part_num": "800-00631-r02",
+        "installed": "1583240003",
+        "serial_num": "540678401008",
+        "device_status": [
+          "envoy.global.ok"
+        ],
+        "last_rpt_date": "1589638654",
+        "admin_state": 1,
+        "dev_type": 1,
+        "created_date": "1583240003",
+        "img_load_date": "1548755627",
+        "img_pnum_running": "520-00082-r01-v02.14.02",
+        "ptpn": "540-00135-r01-v02.14.04",
+        "chaneid": 1627392273,
+        "device_control": [
+          {
+            "gficlearset": false
+          }
+        ],
+        "producing": true,
+        "communicating": true,
+        "provisioned": true,
+        "operating": false
+      },
+      {
+        "part_num": "800-00631-r02",
+        "installed": "1583240007",
+        "serial_num": "445562923544",
+        "device_status": [
+          "envoy.global.ok"
+        ],
+        "last_rpt_date": "1589638655",
+        "admin_state": 1,
+        "dev_type": 1,
+        "created_date": "1583240007",
+        "img_load_date": "1548755627",
+        "img_pnum_running": "520-00082-r01-v02.14.02",
+        "ptpn": "540-00135-r01-v02.14.04",
+        "chaneid": 1627392529,
+        "device_control": [
+          {
+            "gficlearset": false
+          }
+        ],
+        "producing": true,
+        "communicating": true,
+        "provisioned": true,
+        "operating": false
+      },
+      {
+        "part_num": "800-00631-r02",
+        "installed": "1583240010",
+        "serial_num": "782228091322",
+        "device_status": [
+          "envoy.global.ok"
+        ],
+        "last_rpt_date": "1589638657",
+        "admin_state": 1,
+        "dev_type": 1,
+        "created_date": "1583240010",
+        "img_load_date": "1548755627",
+        "img_pnum_running": "520-00082-r01-v02.14.02",
+        "ptpn": "540-00135-r01-v02.14.04",
+        "chaneid": 1627392785,
+        "device_control": [
+          {
+            "gficlearset": false
+          }
+        ],
+        "producing": true,
+        "communicating": true,
+        "provisioned": true,
+        "operating": false
+      },
+      {
+        "part_num": "800-00631-r02",
+        "installed": "1583240015",
+        "serial_num": "839999303167",
+        "device_status": [
+          "envoy.global.ok"
+        ],
+        "last_rpt_date": "1589638658",
+        "admin_state": 1,
+        "dev_type": 1,
+        "created_date": "1583240015",
+        "img_load_date": "1548755627",
+        "img_pnum_running": "520-00082-r01-v02.14.02",
+        "ptpn": "540-00135-r01-v02.14.04",
+        "chaneid": 1627393041,
+        "device_control": [
+          {
+            "gficlearset": false
+          }
+        ],
+        "producing": true,
+        "communicating": true,
+        "provisioned": true,
+        "operating": false
+      }
+    ]
+  },
+  {
+    "type": "ACB",
+    "devices": []
+  },
+  {
+    "type": "NSRB",
+    "devices": []
+  }
+]

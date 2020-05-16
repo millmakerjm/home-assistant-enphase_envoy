@@ -1,0 +1,7 @@
+{
+  "domain": "enphase_envoy",
+  "name": "Enphase Envoy",
+  "documentation": "https://www.home-assistant.io/integrations/enphase_envoy",
+  "requirements": ["httpx==0.12.1"],
+  "codeowners": []
+}

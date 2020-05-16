@@ -1,0 +1,12 @@
+<envoy_info>
+    <time>1589233774</time>
+    <device>
+        <sn>0000000000</sn>
+        <pn>111-000000-r03</pn>
+        <software>R2.10.35</software>
+        <euaid>4c8675</euaid>
+        <seqnum>0</seqnum>
+        <apiver>1</apiver>
+        <imeter>true</imeter>
+    </device>
+</envoy_info>
